@@ -43,5 +43,4 @@ Files:
 - server.c         - main server file
 - inventory.c/h    - inventory and molecule logic
 - Makefile         - compilation
-- README.txt       - this file
 
